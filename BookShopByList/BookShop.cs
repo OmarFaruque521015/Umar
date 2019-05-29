@@ -44,6 +44,8 @@ namespace BookShopByList
 
             index++;
 
+            MessageBox.Show("Oi Harami");
+
             customerNameTextBox.Clear();
             contactNoTextBox.Clear();
             addressTextBox.Clear();
