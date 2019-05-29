@@ -1,8 +1,9 @@
 D:\UmarProject\BookShopByList\BookShopByList\bin\Debug\BookShopByList.exe.config
 D:\UmarProject\BookShopByList\BookShopByList\bin\Debug\BookShopByList.exe
 D:\UmarProject\BookShopByList\BookShopByList\bin\Debug\BookShopByList.pdb
-D:\UmarProject\BookShopByList\BookShopByList\obj\Debug\BookShopByList.Form2.resources
 D:\UmarProject\BookShopByList\BookShopByList\obj\Debug\BookShopByList.Properties.Resources.resources
 D:\UmarProject\BookShopByList\BookShopByList\obj\Debug\BookShopUsingList.csproj.GenerateResource.Cache
 D:\UmarProject\BookShopByList\BookShopByList\obj\Debug\BookShopByList.exe
 D:\UmarProject\BookShopByList\BookShopByList\obj\Debug\BookShopByList.pdb
+D:\UmarProject\BookShopByList\BookShopByList\obj\Debug\BookShopUsingList.csprojResolveAssemblyReference.cache
+D:\UmarProject\BookShopByList\BookShopByList\obj\Debug\BookShopByList.BookShop.resources
